@@ -215,7 +215,7 @@ Junior Data Analyst | Termiz, Uzbekistan
 
 ## 📜 License
 
-This project is licensed under the MIT License.  
+This project is licensed under the MIT [LICENSE](LICENSE).  
 Dataset is sourced from Uzbekistan's public procurement portal and is publicly available.
 
 ---
